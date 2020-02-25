@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "918272480437",
+    "firebase_url": "https://quick-table-planner.firebaseio.com",
+    "project_id": "quick-table-planner",
+    "storage_bucket": "quick-table-planner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918272480437:android:b1c653cb7ddf49d26d9afc",
+        "android_client_info": {
+          "package_name": "com.borreguin.quick_table_planner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918272480437-raucpcv9r5hh3he7d3uorlcuq1c27dmu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVYH_mooo7n7ZwJ54MhDoh0Crnve32rcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918272480437-raucpcv9r5hh3he7d3uorlcuq1c27dmu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "918272480437-nem4dbrrbj7udev01a31qqg8q4vsnasv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.borreguin.quickTablePlanner"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

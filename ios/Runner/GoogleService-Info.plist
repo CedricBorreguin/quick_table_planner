@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>918272480437-nem4dbrrbj7udev01a31qqg8q4vsnasv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.918272480437-nem4dbrrbj7udev01a31qqg8q4vsnasv</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDPu69ldmssu4zWQ9UdxnSMsMgajMf2pAo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>918272480437</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.borreguin.quickTablePlanner</string>
+	<key>PROJECT_ID</key>
+	<string>quick-table-planner</string>
+	<key>STORAGE_BUCKET</key>
+	<string>quick-table-planner.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:918272480437:ios:c68ab6c2453be62a6d9afc</string>
+	<key>DATABASE_URL</key>
+	<string>https://quick-table-planner.firebaseio.com</string>
+</dict>
+</plist>
